@@ -22,7 +22,9 @@ Dashboard Design and User Experience:- Consistent Layout: Structured for easy na
 
 Technology Used:- Power Bi.
 
-![Uploading image.png…]()
+
+![Adventure_Work](https://github.com/user-attachments/assets/f21781de-7f97-422c-bd88-13deed1ef8e9)
+
 
 
 
